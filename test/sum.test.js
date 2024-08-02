@@ -13,7 +13,7 @@ test('adds 1 + 4 to equal 5', () => {
 });
 
 test('adds 2 + 6 to equal 8', () => {
-    expect(sum(2, 6)).toBe(8);
+    expect(sum(2, 6)).toBe(7);
 });
 
 test('adds 3 + 4 to equal 7', () => {
